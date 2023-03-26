@@ -1,6 +1,6 @@
 var typed = new Typed('.animate', {
     strings: [
-        "Bindhu Sree Kalivarapu",
+        "Bindu Sree Kalivarapu",
         "a Student",
         "a Web developer",
         ],
